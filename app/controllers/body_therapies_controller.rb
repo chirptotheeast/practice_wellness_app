@@ -1,0 +1,2 @@
+class BodyTherapiesController < ApplicationController
+end
